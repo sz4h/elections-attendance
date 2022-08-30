@@ -1,4 +1,4 @@
-<p align="center"><a href="https://sz4h.com" target="_blank"><img src="[https://raw.githubusercontent.com/sz4h/elections-attendance/main/screenshot.png](https://raw.githubusercontent.com/sz4h/elections-attendance/main/screenshot.png)" width="400"></a></p>
+<p align="center"><a href="https://sz4h.com" target="_blank"><img src="https://raw.githubusercontent.com/sz4h/elections-attendance/main/screenshot.png" width="400"></a></p>
 
 ## Kuwait Elections Attendance System
 
